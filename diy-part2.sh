@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-#sed -i 's/192.168.1.1/10.1.1.100/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/10.1.1.100/g' package/base-files/files/bin/config_generate
 rm -rf package/lean/adbyby
 rm -rf package/lean/unblockmusic
 rm -rf package/lean/ddns
