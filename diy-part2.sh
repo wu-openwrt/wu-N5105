@@ -17,3 +17,5 @@ rm -rf package/lean/unblockmusic
 rm -rf package/lean/ddns
 rm -rf package/lean/xlnetacc
 rm -rf package/lean/vlmcsd
+rm -rf package/feeds/luci/luci-app-adby-plus
+rm -rf feeds/packages/multimedia/UnblockNeteaseMusic-Go
