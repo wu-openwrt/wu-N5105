@@ -12,10 +12,3 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/10.1.1.100/g' package/base-files/files/bin/config_generate
-rm -rf package/lean/adbyby
-rm -rf package/lean/unblockmusic
-rm -rf package/lean/ddns
-rm -rf package/lean/xlnetacc
-rm -rf package/lean/vlmcsd
-rm -rf package/feeds/luci/luci-app-adby-plus
-rm -rf feeds/packages/multimedia/UnblockNeteaseMusic-Go
